@@ -1,0 +1,4 @@
+name = Comment Hide Subject
+description = Hides the comment subject if the "Allow comment title" checkbox is unchecked for that node type.
+core = 7.x
+dependencies[] = comment
