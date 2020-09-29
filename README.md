@@ -18,14 +18,12 @@ from the default value.
 Documentation
 -------------
 
-Additional documentation is located in the Wiki:
-https://github.com/backdrop-contrib/comment-hide-subject/wiki/Documentation.
+Additional documentation is located in the [Wiki](https://github.com/backdrop-contrib/comment_hide_subject/wiki/Documentation).
 
 Issues
 ------
 
-Bugs and feature requests should be reported in the Issue Queue:
-https://github.com/backdrop-contrib/comment-hide-subject/issues.
+Bugs and feature requests should be reported in the [Issue Queue](https://github.com/backdrop-contrib/comment_hide_subject/issues).
 
 Current Maintainers
 -------------------
