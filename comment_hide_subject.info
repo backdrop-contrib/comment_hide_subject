@@ -1,9 +1,9 @@
 name = Comment Hide Subject
 description = Hides the comment subject if the "Allow custom title for comment" checkbox is unchecked for that node type.
 package = Comments
-tags[] = Content
-version = 1.x-1.0.0-alpha1
 type = module
 backdrop = 1.x
+
+tags[] = Content
 
 dependencies[] = comment
