@@ -4,6 +4,8 @@ Comment Hide Subject
 Comment Hide Subject hides the comment subject if the "Allow custom title for
 comment" checkbox is unchecked for that node type.
 
+**This functionality is provided by core in Backdrop v1.23.0+, so from that version onward, this module is no longer needed.**
+
 Installation
 ------------
 
@@ -14,11 +16,6 @@ https://backdropcms.org/guide/modules.
 Content Authoring > Node Clone settings (admin/config/content/clone) where you
 will find an additional field to optionally alter the title of the clone tab
 from the default value.
-
-Documentation
--------------
-
-Additional documentation is located in the [Wiki](https://github.com/backdrop-contrib/comment_hide_subject/wiki/Documentation).
 
 Issues
 ------
