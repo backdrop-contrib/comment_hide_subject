@@ -1,10 +1,15 @@
 Comment Hide Subject
 ======================
 
+**Important note**: Comment Hide Subject module was moved into Backdrop core in 
+version 1.23.0. Use of this module is no longer necessary and no further changes 
+will be made here. If you would like to report a bug or feature request against 
+Comment Hide Subject module, file an issue in the main Backdrop CMS core 
+repository at https://github.com/backdrop/backdrop-issues.
+
 Comment Hide Subject hides the comment subject if the "Allow custom title for
 comment" checkbox is unchecked for that node type.
 
-**This functionality is provided by core in Backdrop v1.23.0+, so from that version onward, this module is no longer needed.**
 
 Installation
 ------------
@@ -26,8 +31,7 @@ Current Maintainers
 -------------------
 
 - [Robert J. Lang](https://github.com/bugfolder).
-
-Additional maintainers are welcome.
+- Additional maintainers are welcome.
 
 Credits
 -------
